@@ -1,20 +1,19 @@
-# Hi, Jordan here 👋
+# Howdy, Jordan here 👋
 
 Software Engineer (2 years) shipping production systems end to end, from schema and infrastructure through the API to the UI. I'm comfortable across the whole stack and tend to go wherever the hard problem is, whether that's a reactive Kotlin/Spring backend, a PostgreSQL query plan, an Angular app, or an embedded computer-vision rig.
 
 - 🔭 Going deep on distributed systems, PostgreSQL internals, and AWS infrastructure
 - 🏗️ I design the APIs and the service contracts between them, and write the architecture specs before the code
-- 🤖 Heavy AI-augmented workflow (Claude Code, with a spec-and-plan-first loop before I implement)
+- 🤖 Heavy AI-augmented workflow (Claude Code, with a spec-and-plan-first loop before implementation)
 - 🛠️ Range from web (Angular) to mobile (Flutter) to embedded and computer vision (OAK, Raspberry Pi, Arduino)
-- 📫 https://www.linkedin.com/in/jordaa/
 
 ---
 
 ### Tech
 
-**Languages:** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+**Languages:** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-**Frontend:** ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=flat) ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+**Frontend:** ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=flat) ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
 **Backend:** ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
@@ -39,11 +38,3 @@ Software Engineer (2 years) shipping production systems end to end, from schema 
 **Database performance and correctness:** `EXPLAIN`-driven tuning (cut an N+1 from 250+ round-trips to 3 queries; fixed a 4.8M-row scan), audit and event-sourced history tables written atomically, and batched idempotent upserts that protect RDS under load.
 
 **Production hardening:** Found and fixed a fail-open authorization bug that had silently disabled access control, authored a 37-finding security audit, and regularly parachute into large unfamiliar codebases to land tested, documented root-cause fixes.
-
----
-
-### GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Jorrda&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorrda&layout=compact&hide_border=true)
