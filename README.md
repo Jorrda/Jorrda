@@ -4,7 +4,7 @@ Software Engineer (2 years) shipping production systems end to end, from schema 
 
 - 🔭 Going deep on distributed systems, PostgreSQL internals, and AWS infrastructure
 - 🏗️ I design the APIs and the service contracts between them, and write the architecture specs before the code
-- 🤖 Heavy AI-augmented workflow (Claude Code, with a spec-and-plan-first loop before implementation)
+- 🤖 Meticulous AI-augmented workflow (Claude Code, with a spec-and-plan-first loop before implementation)
 - 🛠️ Range from web (Angular) to mobile (Flutter) to embedded and computer vision (OAK, Raspberry Pi, Arduino)
 
 ---
