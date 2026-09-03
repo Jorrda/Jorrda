@@ -1,4 +1,4 @@
-# Howdy, Jordan here 👋
+# Howdy 👋
 
 Software Engineer (2 years) shipping production systems end to end, from schema and infrastructure through the API to the UI. I'm comfortable across the whole stack and tend to go wherever the hard problem is, whether that's a reactive Kotlin/Spring backend, a PostgreSQL query plan, an Angular app, or an embedded computer-vision rig.
 
